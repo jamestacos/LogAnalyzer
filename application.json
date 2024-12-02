@@ -1,0 +1,7 @@
+{
+  "TRACE": 2,
+  "ERROR": 2,
+  "INFO": 3,
+  "WARNING": 2,
+  "DEBUG": 3
+}

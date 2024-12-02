@@ -1,0 +1,32 @@
+{
+  "memory_usage_percent": {
+    "average": 56.0,
+    "median": 59.5,
+    "max": 91,
+    "minimum": 14
+  },
+  "cpu_usage_percent": {
+    "average": 70.0,
+    "median": 71.0,
+    "max": 94,
+    "minimum": 45
+  },
+  "disk_usage_percent": {
+    "average": 48.5,
+    "median": 48.5,
+    "max": 88,
+    "minimum": 9
+  },
+  "network_bytes_out": {
+    "average": 6499590.0,
+    "median": 6499590.0,
+    "max": 6499590,
+    "minimum": 6499590
+  },
+  "network_bytes_in": {
+    "average": 4109021.0,
+    "median": 4109021.0,
+    "max": 6620300,
+    "minimum": 1597742
+  }
+}
